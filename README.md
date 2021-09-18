@@ -8,6 +8,6 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
-![](https://github.com/t0a5ted/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/t0a5ted/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/t0a5ted/gh-stats/blob/master/generated/overview.svg)
+![](https://github.com/t0a5ted/gh-stats/blob/master/generated/languages.svg)
 
